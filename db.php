@@ -2,7 +2,7 @@
 session_start();
 
 $conn = mysqli_connect(
-  '127.0.0.1',
+  'localhost',
   'prueba',
   'Password.123',
   'php_mysql_crud'
