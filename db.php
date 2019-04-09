@@ -4,7 +4,7 @@ session_start();
 $conn = mysqli_connect(
   'localhost',
   'root',
-  'password123',
+  'Password123',
   'php_mysql_crud'
 );
 
